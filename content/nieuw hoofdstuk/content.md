@@ -5,3 +5,11 @@
 # Note test
 
 </Note>
+
+<ShortExercise title="korte opdracht">
+  
+  # Hallo
+  
+  Vul hier een *antwoord* **in**
+  
+</ShortExercise>
