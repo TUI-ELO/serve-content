@@ -13,3 +13,14 @@ Nieuwe exercise
   # Bruh moment 2
   
 </ShortExercise>
+
+
+Testing 123
+
+<Note>
+
+# Notitie
+
+dit is een testnotitie haha
+
+</Note>
