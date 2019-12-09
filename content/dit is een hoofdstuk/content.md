@@ -10,6 +10,6 @@ Nieuwe exercise
   
   # inhoud
   
-  # Bruh moment
+  # Bruh moment 2
   
 </ShortExercise>
