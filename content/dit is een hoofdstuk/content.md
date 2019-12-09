@@ -14,6 +14,14 @@ Nieuwe exercise
   
 </ShortExercise>
 
+<ShortExercise title="test 2">
+  
+  Markdown *content*
+  
+  # inhoud
+  
+</ShortExercise>
+
 
 Testing 123
 
