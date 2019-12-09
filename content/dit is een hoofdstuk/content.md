@@ -14,7 +14,7 @@ Nieuwe exercise
   
 </ShortExercise>
 
-<ShortExercise title="test 2">
+<ShortExercise id="SZjittY8J7kqfFseMQkS" title="test 2">
   
   Markdown *content*
   
