@@ -4,7 +4,7 @@ Test *markdown* content
 
 Nieuwe exercise
 
-<ShortExercise title="test">
+<ShortExercise id="OTHROgTTEg79ejZY7Ew5" title="test">
   
   Markdown *content*
   
