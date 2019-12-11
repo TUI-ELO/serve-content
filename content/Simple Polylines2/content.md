@@ -14,7 +14,6 @@ With a myriad of HTTP utility methods and middleware at your disposal, creating 
 <ShortExercise title="test merge scrape">
     ```
     // test code markdown
-    ```
 </ShortExercise>
 
 ### Performance
