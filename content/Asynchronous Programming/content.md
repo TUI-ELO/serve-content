@@ -37,7 +37,7 @@ Asynchronicity cuts both ways. It makes expressing programs that do not fit the 
 
 Both of the important JavaScript programming platforms—browsers and Node.js—make operations that might take a while asynchronous, rather than relying on threads. Since programming with threads is notoriously hard (understanding what a program does is much more difficult when it’s doing multiple things at once), this is generally considered a good thing.
 
-<CodeExercise title="Opdracht 1">
+<CodeExercise id="A1vqycX1SyJgbVVeBtKg" title="Opdracht 1">
 Plak hieronder het mooiste stukje code dat jij bezit.
 </CodeExercise>
 
