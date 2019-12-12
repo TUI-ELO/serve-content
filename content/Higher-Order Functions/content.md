@@ -33,6 +33,10 @@ It is more likely to be correct because the solution is expressed in a vocabular
 
 The definitions of this vocabulary (the functions `sum` and `range`) will still involve loops, counters, and other incidental details. But because they are expressing simpler concepts than the program as a whole, they are easier to get right.
 
+<Note>
+Test
+</Note>
+
 ## Abstraction
 
 In the context of programming, these kinds of vocabularies are usually called _abstractions_. Abstractions hide details and give us the ability to talk about problems at a higher (or more abstract) level.
@@ -139,6 +143,10 @@ There is a built-in array method, `forEach`, that provides something like a `for
 \["A", "B"\].forEach(l \=> console.log(l));
 // → A
 // → B
+
+<CodeExercise>
+Paste here
+</CodeExercise>
 
 ## Script data set
 
