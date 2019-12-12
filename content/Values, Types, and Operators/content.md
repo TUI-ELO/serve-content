@@ -83,7 +83,7 @@ The first two are `Infinity` and `-Infinity`, which represent the positive and n
 
 The next basic data type is the _string_. Strings are used to represent text. They are written by enclosing their content in quotes.
 
-<ShortExercise title="Test exercise">
+<ShortExercise id="uhcSuLKVPaNvXazkwsjU" title="Test exercise">
    
    How do you spell _string_?
    
