@@ -146,7 +146,7 @@ There is a built-in array method, `forEach`, that provides something like a `for
 // → A
 // → B
 
-<CodeExercise title="Opdrachtje">
+<CodeExercise id="gjKJdxrZ33Jxta2CvroY" title="Opdrachtje">
 Paste here
 </CodeExercise>
 
