@@ -5,6 +5,10 @@
 
 ![Picture of two crows on a branch](https://eloquentjavascript.net/img/chapter_picture_11.jpg)
 
+<Note>
+Dit is een note om onduidelijkheden te verduidelijken.
+</Note>
+
 The central part of a computer, the part that carries out the individual steps that make up our programs, is called the _processor_. The programs we have seen so far are things that will keep the processor busy until they have finished their work. The speed at which something like a loop that manipulates numbers can be executed depends pretty much entirely on the speed of the processor.
 
 But many programs interact with things outside of the processor. For example, they may communicate over a computer network or request data from the hard disk—which is a lot slower than getting it from memory.
@@ -32,6 +36,10 @@ Another way to describe the difference is that waiting for actions to finish is 
 Asynchronicity cuts both ways. It makes expressing programs that do not fit the straight-line model of control easier, but it can also make expressing programs that do follow a straight line more awkward. We’ll see some ways to address this awkwardness later in the chapter.
 
 Both of the important JavaScript programming platforms—browsers and Node.js—make operations that might take a while asynchronous, rather than relying on threads. Since programming with threads is notoriously hard (understanding what a program does is much more difficult when it’s doing multiple things at once), this is generally considered a good thing.
+
+<CodeExercise title="Opdracht 1">
+Plak hieronder het mooiste stukje code dat jij bezit.
+</CodeExercise>
 
 ## Crow tech
 
