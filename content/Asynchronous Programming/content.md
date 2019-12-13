@@ -194,7 +194,7 @@ storage(bigOak, "enemies")
 
 This asynchronous function returns a meaningful value. This is the main advantage of promises—they simplify the use of asynchronous functions. Instead of having to pass around callbacks, promise-based functions look similar to regular ones: they take input as arguments and return their output. The only difference is that the output may not be available yet.
 
-<ShortExercise title="Timeout Chains (A)">
+<GitExercise title="Timeout Chains (A)">
 Het werken met promises lijkt een beetje op synchroon programmeren, maar het is niet helemaal hetzelfde. Deze opgave illustreert dit.
 
 Hieronder zie je twee promise chains gemaakt met setTimeoutP.
