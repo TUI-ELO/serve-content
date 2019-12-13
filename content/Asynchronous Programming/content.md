@@ -102,7 +102,7 @@ Performing multiple asynchronous actions in a row using callbacks means that you
 
 Most crow nest computers have a long-term data storage bulb, where pieces of information are etched into twigs so that they can be retrieved later. Etching, or finding a piece of data, takes a moment, so the interface to long-term storage is asynchronous and uses callback functions.
 
-<CodeExercise title="Wat is de volgorde?">
+<CodeExercise id="kPhpTJNk9t5epQwBrgzQ" title="Wat is de volgorde?">
 Gegeven onderstaande code
 
 ```js
@@ -194,7 +194,7 @@ storage(bigOak, "enemies")
 
 This asynchronous function returns a meaningful value. This is the main advantage of promises—they simplify the use of asynchronous functions. Instead of having to pass around callbacks, promise-based functions look similar to regular ones: they take input as arguments and return their output. The only difference is that the output may not be available yet.
 
-<ShortExercise title="Timeout Chains (A)">
+<ShortExercise id="1tF7y4En6gJW6BvdKBBi" title="Timeout Chains (A)">
 Het werken met promises lijkt een beetje op synchroon programmeren, maar het is niet helemaal hetzelfde. Deze opgave illustreert dit.
 
 Hieronder zie je twee promise chains gemaakt met setTimeoutP.
@@ -239,7 +239,7 @@ B - 2
 Noteer hieronder de vier getallen die je hebt gekozen.
 </GitExercise>
 
-<ShortExercise title="Timeout Chains (B)">
+<ShortExercise id="MtTf86fDhE4kjCy0LwXg" title="Timeout Chains (B)">
 Kun je de getallen ook zo veranderen dat je deze uitvoer krijgt:
 
 ```
