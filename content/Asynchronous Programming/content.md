@@ -1,3 +1,5 @@
+# Asynchronous Programming
+
 > Who can wait quietly while the mud settles?  
 > Who can remain still until the moment of action?
 > 
@@ -63,9 +65,62 @@ setTimeout(() \=> console.log("Tick"), 500);
 
 Waiting is not generally a very important type of work, but it can be useful when doing something like updating an animation or checking whether something is taking longer than a given amount of time.
 
+<Note>
+De belangrijkste eigenschap van een asynchrone callback is dat deze pas kan worden gestart wanneer er op dat moment geen andere JavaScript code meer wordt uitgevoerd.
+
+```js
+setTimeout(() => {
+    console.log("A");
+}, 500);
+
+console.log('B');
+```
+
+De bovenstaande code heeft daarom als uitvoer:
+
+```js
+B
+A  
+```
+
+Dit betekent ook dat JavaScript code die erg traag is, de performance van het hele systeem onderuit kan halen.
+
+In het onderstaande voorbeeld wel “A” nooit op de console worden getoond.
+
+```js
+setTimeout(() => {
+  console.log('A');
+}, 500);
+
+while (true) {
+  console.log('B');
+}
+```
+</Note>
+
 Performing multiple asynchronous actions in a row using callbacks means that you have to keep passing new functions to handle the continuation of the computation after the actions.
 
 Most crow nest computers have a long-term data storage bulb, where pieces of information are etched into twigs so that they can be retrieved later. Etching, or finding a piece of data, takes a moment, so the interface to long-term storage is asynchronous and uses callback functions.
+
+<CodeExercise title="Wat is de volgorde?">
+Gegeven onderstaande code
+
+```js
+const lijst = ['A', 'B'];
+
+setTimeout(() => {
+    console.log('C');
+}, 0);
+
+lijst.forEach((item) => {
+    console.log(item);
+});
+
+console.log('D');
+```
+
+Wat is de volgorde van de letters die op de console verschijnt?
+</CodeExercise>
 
 Storage bulbs store pieces of JSON-encodable data under names. A crow might store information about the places where it’s hidden food under the name `"food caches"`, which could hold an array of names that point at other pieces of data, describing the actual cache. To look up a food cache in the storage bulbs of the _Big Oak_ nest, a crow could run code like this:
 
@@ -139,6 +194,63 @@ storage(bigOak, "enemies")
 
 This asynchronous function returns a meaningful value. This is the main advantage of promises—they simplify the use of asynchronous functions. Instead of having to pass around callbacks, promise-based functions look similar to regular ones: they take input as arguments and return their output. The only difference is that the output may not be available yet.
 
+<ShortExercise title="Timeout Chains (A)">
+Het werken met promises lijkt een beetje op synchroon programmeren, maar het is niet helemaal hetzelfde. Deze opgave illustreert dit.
+
+Hieronder zie je twee promise chains gemaakt met setTimeoutP.
+
+```js
+/* Promise chain A */
+setTimeoutP(10).then(() => {
+    console.log('A - 1');
+    return setTimeoutP(20);
+}).then(() => {
+    console.log('A - 2');
+});
+
+/* Promise chain B */
+setTimeoutP(100).then(() => {
+    console.log('B - 1');
+    return setTimeoutP(150);
+}).then(() => {
+    console.log('B - 2');
+});
+```
+
+Op dit moment is de uitvoer van deze code:
+
+```
+A - 1
+A - 2
+B - 1
+B - 2
+```
+
+Hierin zie je dat de chain A en chain B netjes na elkaar worden uitgevoerd. Dit ligt echter aan de getallen die gekozen zijn voor de vier aanroepen van setTimeoutP.
+
+Verander deze vier getallen zodanig dat je de volgende uitvoer krijgt:
+```
+A - 1
+B - 1
+A - 2
+B - 2
+```
+
+Noteer hieronder de vier getallen die je hebt gekozen.
+</GitExercise>
+
+<ShortExercise title="Timeout Chains (B)">
+Kun je de getallen ook zo veranderen dat je deze uitvoer krijgt:
+
+```
+A - 2
+B - 2
+A - 1
+B - 1
+```
+Zo niet, waarom niet?
+</ShortExercise>
+
 ## Failure
 
 Regular JavaScript computations can fail by throwing an exception. Asynchronous computations often need something like that. A network request may fail, or some code that is part of the asynchronous computation may throw an exception.
@@ -170,6 +282,8 @@ new Promise((\_, reject) \=> reject(new Error("Fail")))
 // → Handler 2 nothing
 
 Much like an uncaught exception is handled by the environment, JavaScript environments can detect when a promise rejection isn’t handled and will report this as an error.
+
+<Optional>
 
 ## Networks are hard
 
@@ -293,6 +407,8 @@ This style of network communication is called _flooding_—it floods the network
 We can call `sendGossip` to see a message flow through the village.
 
 sendGossip(bigOak, "Kids with airgun in the park");
+
+</Optional>
 
 ## Message routing
 
