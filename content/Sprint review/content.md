@@ -4,6 +4,12 @@ WebRTC consists of several interrelated APIs and protocols which work together t
 
 ## Interoperability
 
+<CodeExercise title="Sprint review">
+  
+  **Maak een mooie functie**
+  
+</CodeExercise>
+
 Because implementations of WebRTC are still evolving, and because each browser has [different levels of support for codecs](https://developer.mozilla.org/en-US/docs/Web/Media/Formats/WebRTC_codecs) and WebRTC features, you should _strongly_ consider making use of [the Adapter.js library](https://github.com/webrtcHacks/adapter) provided by Google before you begin to write your code.
 
 Adapter.js uses shims and polyfills to smooth over the differences among the WebRTC implementations across the environments supporting it. Adapter.js also handles prefixes and other naming differences to make the entire WebRTC development process easier, with more broadly compatible results. The library is also [available as an NPM package](https://www.npmjs.com/package/webrtc-adapter).
