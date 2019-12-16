@@ -1,9 +1,5 @@
 # Chapter 3 - Functions 😀😀😀😀😀
 
-<ShortExercise id="kEBzw5Q99z6jKSGLG5e8" title="Test titel veranderd2 2 3 4">
-    Dit is een test voor idtagger cloud function.
-</ShortExercise>
-
 > "People think that computer science is the art of geniuses but the actual
 > reality is the opposite, just many people doing things that build on each
 > other, like a wall of mini stones."
