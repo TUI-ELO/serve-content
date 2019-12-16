@@ -1,6 +1,6 @@
 # Chapter 3 - Functions 😀😀😀😀😀
 
-<ShortExercise title="abc">
+<ShortExercise title="Test titel veranderd">
     Dit is een test voor idtagger cloud function.
 </ShortExercise>
 
