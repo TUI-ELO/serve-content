@@ -339,6 +339,10 @@ Fielding, et al.            Standards Track                     \[Page 6\]
 
 ## [1](https://tools.ietf.org/html/rfc2616#section-1) Introduction
 
+<ShortExercise title="Question 1">
+  # What is the meaning of life?
+</ShortExercise>
+
 ### [1.1](https://tools.ietf.org/html/rfc2616#section-1.1) Purpose
 
    The Hypertext Transfer Protocol (HTTP) is an application-level
