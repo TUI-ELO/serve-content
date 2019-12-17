@@ -106,7 +106,19 @@ Bekijk deze informatieve video:
 
 Performing multiple asynchronous actions in a row using callbacks means that you have to keep passing new functions to handle the continuation of the computation after the actions.
 
+<Note>
+Bekijk deze informatieve video:
+
+<Video url="https://www.facebook.com/facebook/videos/10153231379946729/" />
+</Note>
+
 Most crow nest computers have a long-term data storage bulb, where pieces of information are etched into twigs so that they can be retrieved later. Etching, or finding a piece of data, takes a moment, so the interface to long-term storage is asynchronous and uses callback functions.
+
+<Note>
+Bekijk deze informatieve video:
+
+<Video url="https://vimeo.com/90509568" />
+</Note>
 
 <CodeExercise id="kPhpTJNk9t5epQwBrgzQ" title="Wat is de volgorde?">
 Gegeven onderstaande code
