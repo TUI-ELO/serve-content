@@ -117,7 +117,7 @@ Most crow nest computers have a long-term data storage bulb, where pieces of inf
 <Note>
 Bekijk deze informatieve video:
 
-<Video url="https://vimeo.com/90509568" />
+<Video url="https://vimeo.com/374440308/c960241357" />
 </Note>
 
 <Note>
