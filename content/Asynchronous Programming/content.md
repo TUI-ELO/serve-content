@@ -120,6 +120,12 @@ Bekijk deze informatieve video:
 <Video url="https://vimeo.com/90509568" />
 </Note>
 
+<Note>
+Bekijk deze informatieve video:
+
+<Video />
+</Note>
+
 <CodeExercise id="kPhpTJNk9t5epQwBrgzQ" title="Wat is de volgorde?">
 Gegeven onderstaande code
 
