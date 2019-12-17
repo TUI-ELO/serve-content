@@ -123,7 +123,7 @@ Bekijk deze informatieve video:
 <Note>
 Bekijk deze informatieve video:
 
-<Video />
+<Video url="http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4" />
 </Note>
 
 <CodeExercise id="kPhpTJNk9t5epQwBrgzQ" title="Wat is de volgorde?">
