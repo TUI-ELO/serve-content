@@ -101,7 +101,7 @@ while (true) {
 <Note>
 Bekijk deze informatieve video:
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8aGhZQkoFbQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<Video url="https://www.youtube-nocookie.com/embed/8aGhZQkoFbQ" />
 </Note>
 
 Performing multiple asynchronous actions in a row using callbacks means that you have to keep passing new functions to handle the continuation of the computation after the actions.
