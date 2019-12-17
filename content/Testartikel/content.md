@@ -1,6 +1,12 @@
 Part of the [Edwardian Phase](https://en.wikipedia.org/wiki/Hundred_Years%27_War_(1337%E2%80%931360) "Hundred Years' War (1337–1360)") of the Hundred Years' War![A colourful and stylised picture of a late-Medieval battle](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Battle_of_crecy_froissart.jpg/220px-Battle_of_crecy_froissart.jpg)  
 A battle between French and English armies, as imagined by a contemporary chronicler
 
+<ShortExercise title="vraag 1">
+  # Dit is een mooie vraag
+  
+  **test**
+</ShortExercise>
+
 |     |     |
 | --- | --- |
 | Date | 1345 |
