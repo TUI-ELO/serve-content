@@ -31,7 +31,7 @@ $ npm init
   etc
 </Note>
 
-This command prompts you for a number of things, such as the name and version of your application. For now, you can simply hit R
+
 =========
 This command prompts you for a number of things, such as the name and version of your application. For now, you can simply hit R
 >>>>>>>>>
