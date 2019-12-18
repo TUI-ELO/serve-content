@@ -22,8 +22,6 @@ $ npm init
 
 ```
 
-
-<<<<<<<<<
 <Note>
   # Notitie
   met markdowninhoud
@@ -31,11 +29,7 @@ $ npm init
   etc
 </Note>
 
-
-=========
-This command prompts you for a number of things, such as the name and version of your application. For now, you can simply hit R
->>>>>>>>>
-ETURN to accept the defaults for most of them, with the following exception:
+This command prompts you for a number of things, such as the name and version of your application. For now, you can simply hit RETURN to accept the defaults for most of them, with the following exception:
 
 ```
 entry point: (index.js)
