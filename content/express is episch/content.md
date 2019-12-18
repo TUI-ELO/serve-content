@@ -22,7 +22,7 @@ $ npm install express --save
 
 ```
 
-<ShortExercise title="Vraag 1">
+<ShortExercise id="qF6bVXu181vyZD5saibt" title="Vraag 1">
   Hoe gebruik je express?
 </ShortExercise>
 
@@ -35,6 +35,6 @@ $ npm install express --no-save
 
 By default with version npm 5.0+ npm install adds the module to the `dependencies` list in the `package.json` file; with earlier versions of npm, you must specify the `--save` option explicitly. Then, afterwards, running `npm install` in the app directory will automatically install modules in the dependencies list.
 
-<ShortExercise title="Vraag 2">
+<ShortExercise id="m2rc4CGvBKZuk7kr2zl0" title="Vraag 2">
   Waarom gebruik je express?
 </ShortExercise>
