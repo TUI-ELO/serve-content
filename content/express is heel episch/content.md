@@ -1,3 +1,10 @@
+<Note>
+  # Notitie
+  met markdowninhoud
+  
+  etc
+</Note>
+
 # Installing
 
 Assuming you’ve already installed [Node.js](https://nodejs.org/), create a directory to hold your application, and make that your working directory.
@@ -23,6 +30,13 @@ Now install Express in the `myapp` directory and save it in the dependencies lis
 $ npm install express --save
 
 ```
+
+<Note>
+  # Notitie
+  met markdowninhoud
+  
+  etc
+</Note>
 
 To install Express temporarily and not add it to the dependencies list:
 
