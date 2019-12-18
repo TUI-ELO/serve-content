@@ -15,6 +15,10 @@ $ npm init
 
 ```
 
+<Note>
+  # This is a test note
+</Note>
+
 This command prompts you for a number of things, such as the name and version of your application. For now, you can simply hit RETURN to accept the defaults for most of them, with the following exception:
 
 ```
