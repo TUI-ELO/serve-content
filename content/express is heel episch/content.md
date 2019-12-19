@@ -1,10 +1,3 @@
-<Note>
-  # Notitie
-  met markdowninhoud
-  
-  etc
-</Note>
-
 # Installing
 
 Assuming you’ve already installed [Node.js](https://nodejs.org/), create a directory to hold your application, and make that your working directory.
@@ -22,20 +15,7 @@ $ npm init
 
 ```
 
-
-<<<<<<<<<
-<Note>
-  # Notitie
-  met markdowninhoud
-  
-  etc
-</Note>
-
-
-=========
-This command prompts you for a number of things, such as the name and version of your application. For now, you can simply hit R
->>>>>>>>>
-ETURN to accept the defaults for most of them, with the following exception:
+This command prompts you for a number of things, such as the name and version of your application. For now, you can simply hit RETURN to accept the defaults for most of them, with the following exception:
 
 ```
 entry point: (index.js)
@@ -50,14 +30,6 @@ Now install Express in the `myapp` directory and save it in the dependencies lis
 $ npm install express --save
 
 ```
-
-<Note>
-  # Notitie
-  met markdowninhoud
-  asdf
-  
-  etc
-</Note>
 
 To install Express temporarily and not add it to the dependencies list:
 
