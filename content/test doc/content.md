@@ -1,5 +1,0 @@
-# Checking your browser before accessing icawiki.ml.
-
-This process is automatic. Your browser will redirect to your requested content shortly.
-
-Please allow up to 5 seconds…
