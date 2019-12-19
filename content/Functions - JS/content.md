@@ -165,7 +165,7 @@ console.log(n);
 // → 10
 ```
 
-<ShortExercise id="r3CLzHi82RLnYGVaDBZJ" title="Oefening 3.2.1: Scoping rules let and var (A)">
+<ShortExercise id="h63AEL7mpB6qQ7qFTeMD" title="Oefening 3.2.1: Scoping rules let and var (A)" slider>
 
 Oefening 3.2.1: Scoping rules let and var (A) Schrijf voor elk van de
 onderstaande stukken code de output op van console.log. Kies daarbij uit 42,
