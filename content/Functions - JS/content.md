@@ -203,7 +203,7 @@ console.log(b1);
 
 </ShortExercise>
 
-<GitExercise title="Oefening 3.2.3: Scoping rules let and var (B2)" slider>
+<GitExercise id="Ni3u5YtNcmh0DH6VwXOy" title="Oefening 3.2.3: Scoping rules let and var (B2)" slider>
 
 ```js
 if (true) {
@@ -214,7 +214,7 @@ console.log(b2);
 
 </ShortExercise>
 
-<GitExercise title="Oefening 3.2.4: Scoping rules let and var (C1)">
+<GitExercise id="TAqoPrshDmmq3kMm7JiQ" title="Oefening 3.2.4: Scoping rules let and var (C1)">
 
 ```js
 for (let c1 = 0; c1 < 42; c1++) {
