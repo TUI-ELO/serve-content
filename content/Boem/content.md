@@ -8,7 +8,7 @@ The Mk. XIV was theoretically less accurate than the contemporary [Norden bombsi
 
 A post-war upgrade, the **T-4**, also known by its [rainbow code](https://en.wikipedia.org/wiki/Rainbow_code "Rainbow code") **Blue Devil**, connected directly to the [Navigation and Bombing System](https://en.wikipedia.org/wiki/Navigation_and_Bombing_System "Navigation and Bombing System") computers to automate the setting of [wind speed](https://en.wikipedia.org/wiki/Wind_speed "Wind speed") and direction. This eliminated the one potential inaccuracy in the system, further increased accuracy, and simplified operation. These equipped the [V Bomber](https://en.wikipedia.org/wiki/V_Bomber "V Bomber") force as well as other aircraft until their retirement from service in the 1960s.
 
-<ShortExercise title="oefening 1">
+<ShortExercise id="0LhvUUvNMKfHIJ5Rrvi6" title="oefening 1">
 
 # Mooie opdracht lmao
 
