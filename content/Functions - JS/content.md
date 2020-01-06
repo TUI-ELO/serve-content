@@ -212,7 +212,7 @@ if (true) {
 console.log(b2);
 ```
 
-</ShortExercise>
+</GitExercise>
 
 <GitExercise id="TAqoPrshDmmq3kMm7JiQ" title="Oefening 3.2.4: Scoping rules let and var (C1)">
 
@@ -223,7 +223,7 @@ for (let c1 = 0; c1 < 42; c1++) {
 console.log(c1);
 ```
 
-</ShortExercise>
+</GitExercise>
 
 <ShortExercise id="tEcMQsnQGUPDEyK3212m" title="Oefening 3.2.5: Scoping rules let and var (C2)">
 
