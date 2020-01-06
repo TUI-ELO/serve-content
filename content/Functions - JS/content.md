@@ -192,7 +192,7 @@ var a2 = 42;
 
 </ShortExercise>
 
-<ShortExercise id="gekH3dwXwNvE9qOnQp4F" title="Oefening 3.2.2: Scoping rules let and var (B1)">
+<ShortExercise id="gekH3dwXwNvE9qOnQp4F" title="Oefening 3.2.2: Scoping rules let and var (B1)" slider>
 
 ```js
 if (true) {
