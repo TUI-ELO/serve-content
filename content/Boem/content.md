@@ -1,7 +1,3 @@
-The Mk. XIVA _sighting head_, which would be mounted in the front of the aircraft and connected to the computor by the cables coiled up on the left. This example is found in the [RAF Museum](https://en.wikipedia.org/wiki/RAF_Museum_London "RAF Museum London")'s reserve collection.
-
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Mk._XIV_computor.jpg/220px-Mk._XIV_computor.jpg)
-
 The Mk. XIVA _computor_, normally mounted on the left side of the forward fuselage. The wind speed and direction are set on the blue dials, the bomb's terminal velocity and the target altitude on the green dials.
 
 The **Mark XIV Computing Bomb Sight**[\[a\]](https://en.wikipedia.org/wiki/Mark_XIV_bomb_sight#cite_note-1) was a [bombsight](https://en.wikipedia.org/wiki/Bombsight "Bombsight") developed by [Royal Air Force](https://en.wikipedia.org/wiki/Royal_Air_Force "Royal Air Force") (RAF) [Bomber Command](https://en.wikipedia.org/wiki/RAF_Bomber_Command "RAF Bomber Command") during the [Second World War](https://en.wikipedia.org/wiki/Second_World_War "Second World War"). It was also known as the **Blackett sight** after its primary inventor, [P. M. S. Blackett](https://en.wikipedia.org/wiki/Patrick_Blackett,_Baron_Blackett "Patrick Blackett, Baron Blackett"). Production of a slightly modified version was also undertaken in the United States as the **Sperry T-1**, which was interchangeable with the UK-built version. It was the RAF's standard bombsight for the second half of the war.
