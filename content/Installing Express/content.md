@@ -15,7 +15,7 @@ $ npm init
 
 ```
 
-<ShortExercise title="Korte opdracht" slider>
+<ShortExercise id="mIkb4xRXyj1PmGcHuChC" title="Korte opdracht" slider>
 Dit is een korte opdracht...
 </ShortExercise>
 
@@ -26,7 +26,7 @@ entry point: (index.js)
 
 ```
 
-<GitExercise title="Git opdracht" slider>
+<GitExercise id="NGaYBfQnxsTfYljVohYm" title="Git opdracht" slider>
 Dit is een Git opdracht...
 </GitExercise>
 
@@ -46,7 +46,7 @@ $ npm install express --no-save
 
 ```
 
-<CodeExercise title="Code opdracht" slider>
+<CodeExercise id="K0DHpPHH2hazp66i0wsF" title="Code opdracht" slider>
 Dit is een code opdracht...
 </CodeExercise>
 
