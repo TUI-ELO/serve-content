@@ -225,7 +225,7 @@ console.log(c1);
 
 </GitExercise>
 
-<CodeExercise title="Oefening 3.2.5: Scoping rules let and var (C2)" slider>
+<CodeExercise id="5quq27HYHf6l5PZxa1Rx" title="Oefening 3.2.5: Scoping rules let and var (C2)" slider>
 
 ```js
 for (var c2 = 0; c2 < 4; c2++) {
@@ -236,7 +236,7 @@ console.log(c2);
 
 </CodeExercise>
 
-<CodeExercise title="Oefening 3.2.6: Scoping rules let and var (D1)" language="markdown" slider>
+<CodeExercise id="ECGqn2pfgMUvlnwcfjYD" title="Oefening 3.2.6: Scoping rules let and var (D1)" language="markdown" slider>
 
 ```js
 function test() {
@@ -247,7 +247,7 @@ console.log(d1);
 
 </CodeExercise>
 
-<CodeExercise title="Oefening 3.2.7: Scoping rules let and var (D2)">
+<CodeExercise id="BYArSLbhrEjXIYjdeff3" title="Oefening 3.2.7: Scoping rules let and var (D2)">
 
 ```js
 function test() {
