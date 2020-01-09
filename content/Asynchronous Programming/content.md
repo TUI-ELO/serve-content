@@ -5,6 +5,8 @@
 > 
 > Laozi, Tao Te Ching
 
+Episch gamer moment
+
 ![Picture of two crows on a branch](https://eloquentjavascript.net/img/chapter_picture_11.jpg)
 
 The central part of a computer, the part that carries out the individual steps that make up our programs, is called the _processor_. The programs we have seen so far are things that will keep the processor busy until they have finished their work. The speed at which something like a loop that manipulates numbers can be executed depends pretty much entirely on the speed of the processor.
