@@ -431,6 +431,8 @@ worrying about having to define all functions before they are used.
 
 ## Arrow functions
 
+<Video url="https://www.youtube.com/watch?v=mrYMzpbFz18" />
+
 There’s a third notation for functions, which looks very different from the
 others. Instead of the `function` keyword, it uses an arrow (`=>`) made up of an
 equal sign and a greater-than character (not to be confused with the
