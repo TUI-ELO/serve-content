@@ -74,12 +74,6 @@ De volgende video is verplicht om bekeken te hebben voor de volgende les.
 <Video url="https://www.youtube.com/watch?v=L72fhGm1tfE" />
 </Note>
 
-For more details about routing, see the [routing 
-<<<<<<<<<
- guide](https://expressjs.com/en/guide/routing.html).
- 
-=========
- guide](https://expressjs.com/en/guide/routing.html).
+For more details about routing, see the [routing guide](https://expressjs.com/en/guide/routing.html).
 
-Tot slot heb ik hier nog wat nieuws toegevoegd. 
->>>>>>>>>
+Tot slot heb ik hier nog wat nieuws toegevoegd.
