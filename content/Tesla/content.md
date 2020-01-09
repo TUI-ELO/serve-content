@@ -429,6 +429,8 @@ The RAV4 EV had a limited production run which resulted in just under 3,000 vehi
 
 Tesla supplies battery packs for [Freightliner Trucks](https://tui-elo.github.io/wiki/Freightliner_Trucks "Freightliner Trucks")' Custom Chassis electric van.[\[365\]](https://tui-elo.github.io/static-page/#cite_note-wot.motortrend.com-369)
 
+Goedemiddag!!
+
 ### Panasonic
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Tesla_Panasonic.jpg/220px-Tesla_Panasonic.jpg)
