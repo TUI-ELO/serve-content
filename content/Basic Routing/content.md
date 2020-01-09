@@ -45,6 +45,14 @@ app.put('/user', function (req, res) {
 })
 ```
 
+<CodeExercise title="Express.js vraag" language="javascript" slider>
+  
+  De volgende vraag is om in te vullen.
+  
+  Laat je mooiste stukje code zien.
+  
+</CodeExercise>
+
 Respond to a DELETE request to the `/user` route:
 
 ```
@@ -52,5 +60,12 @@ app.delete('/user', function (req, res) {
   res.send('Got a DELETE request at /user')
 })
 ```
+
+<Note>
+
+De volgende video is verplicht om bekeken te hebben voor de volgende les.
+  
+<Video url="https://www.youtube.com/watch?v=L72fhGm1tfE" />
+</Note>
 
 For more details about routing, see the [routing guide](https://expressjs.com/en/guide/routing.html).
