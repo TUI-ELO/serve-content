@@ -161,7 +161,7 @@ console.log(n);
 // → 10
 ```
 
-<ShortExercise title="Oefening 3.2.1: Scoping rules let and var (A)">
+<ShortExercise id="mHEXt79WUX2aE2r2SY1W" title="Oefening 3.2.1: Scoping rules let and var (A)">
 
 Schrijf voor elk van de onderstaande stukken code de output op van
 `console.log`. Kies daarbij uit `42`, `undefined`, of `ReferenceError`
@@ -188,7 +188,7 @@ var a2 = 42;
 
 </ShortExercise>
 
-<ShortExercise title="Oefening 3.2.2: Scoping rules let and var (B1)">
+<ShortExercise id="bHrHqOHMak9SQvYmnRhr" title="Oefening 3.2.2: Scoping rules let and var (B1)">
 
 ```js
 if (true) {
@@ -199,7 +199,7 @@ console.log(b1);
 
 </ShortExercise>
 
-<ShortExercise title="Oefening 3.2.3: Scoping rules let and var (B2)" slider>
+<ShortExercise id="Yq4rgQ2KPfoIiETrL1lM" title="Oefening 3.2.3: Scoping rules let and var (B2)" slider>
 
 ```js
 if (true) {
@@ -210,7 +210,7 @@ console.log(b2);
 
 </ShortExercise>
 
-<ShortExercise title="Oefening 3.2.4: Scoping rules let and var (C1)">
+<ShortExercise id="t8xDGQjTiVgDbOnvlTn2" title="Oefening 3.2.4: Scoping rules let and var (C1)">
 
 ```js
 for (let c1 = 0; c1 < 42; c1++) {
@@ -221,7 +221,7 @@ console.log(c1);
 
 </ShortExercise>
 
-<ShortExercise title="Oefening 3.2.5: Scoping rules let and var (C2)">
+<ShortExercise id="DpBDgRdZeEgowdWsiUEJ" title="Oefening 3.2.5: Scoping rules let and var (C2)">
 
 ```js
 for (var c2 = 0; c2 < 42; c2++) {
@@ -232,7 +232,7 @@ console.log(c2);
 
 </ShortExercise>
 
-<ShortExercise title="Oefening 3.2.6: Scoping rules let and var (D1)">
+<ShortExercise id="SNVH04xuhrmMXQId0yqR" title="Oefening 3.2.6: Scoping rules let and var (D1)">
 
 ```js
 function test() {
@@ -243,7 +243,7 @@ console.log(d1);
 
 </ShortExercise>
 
-<ShortExercise title="Oefening 3.2.7: Scoping rules let and var (D2)">
+<ShortExercise id="OgbQ6HYH2kaCL3XojSKS" title="Oefening 3.2.7: Scoping rules let and var (D2)">
 
 ```js
 function test() {
@@ -327,7 +327,7 @@ JavaScript functies are firts-class citizens’_.
 
 </Note>
 
-<GitExercise title="Oefening 3.3.1: Function in Variable (A)" slider>
+<GitExercise id="Wd63qJkE1sr0eh6ob6Be" title="Oefening 3.3.1: Function in Variable (A)" slider>
 
 Gegeven deze code.
 
@@ -350,7 +350,7 @@ onderstaande tekeninstructies om te weten wat je waar moet invullen.
 
 </GitExercise>
 
-<CodeExercise title="Oefening 3.3.2: Function in Variable (B)" language="markdown" slider>
+<CodeExercise id="F1XaTn3bEEO5ghVxAzcq" title="Oefening 3.3.2: Function in Variable (B)" language="markdown" slider>
 
 ```js
 const testFunction = function() {
@@ -366,7 +366,7 @@ foutmelding geeft._
 
 </CodeExercise>
 
-<ShortExercise title="Oefening 3.3.4: Value and Type (B)">
+<ShortExercise id="cGNKxum9uz1ehH61milV" title="Oefening 3.3.4: Value and Type (B)">
 
 ```js
 createGreeting();
@@ -374,7 +374,7 @@ createGreeting();
 
 </ShortExercise>
 
-<ShortExercise title="Oefening 3.3.5: Value and Type (C)">
+<ShortExercise id="PIew6J4aYJLZx5DueOhF" title="Oefening 3.3.5: Value and Type (C)">
 
 ```js
 createGreeting;
@@ -382,7 +382,7 @@ createGreeting;
 
 </ShortExercise>
 
-<ShortExercise title="Oefening 3.3.6: Value and Type (D)">
+<ShortExercise id="kkSGYxNJJ78onpf8LFrS" title="Oefening 3.3.6: Value and Type (D)">
 
 ```js
 createGreeting.toString();
@@ -484,7 +484,7 @@ thing. Arrow functions were added in 2015, mostly to make it possible to write
 small function expressions in a less verbose way. We’ll be using them a lot in
 [Chapter 5](https://eloquentjavascript.net/05_higher_order.html).
 
-<ShortExercise title="Oefening 3.5.1: To Return (A)" slider>
+<ShortExercise id="CvcOZ8EhYaCKYY5e0jMP" title="Oefening 3.5.1: To Return (A)" slider>
 
 Geef voor elk stuk code aan wat de return-waarde is van square(10). Maak daarbij
 de keuze uit 100, undefined, of error.
@@ -499,7 +499,7 @@ square(10); //Wat is de return-waarde van dit statement?
 
 </ShortExercise>
 
-<ShortExercise title="Oefening 3.5.2: To Return (B)" slider>
+<ShortExercise id="5Vp93RcbrH9lZZ2lCCEC" title="Oefening 3.5.2: To Return (B)" slider>
 
 ```js
 function square(x) {
@@ -511,7 +511,7 @@ square(10); //Wat is de return-waarde van dit statement?
 
 </ShortExercise>
 
-<ShortExercise title="Oefening 3.5.3: To Return (C)" slider>
+<ShortExercise id="cReAR0EnXszmpSTscRPS" title="Oefening 3.5.3: To Return (C)" slider>
 
 ```js
 function square(x) {
@@ -523,7 +523,7 @@ square(10); //Wat is de return-waarde van dit statement?
 
 </ShortExercise>
 
-<ShortExercise title="Oefening 3.5.4: To Return (D)" slider>
+<ShortExercise id="hG2iSNQIQ2KADQhuoIzP" title="Oefening 3.5.4: To Return (D)" slider>
 
 ```js
 const square = x => {
@@ -535,7 +535,7 @@ square(10); //Wat is de return-waarde van dit statement?
 
 </ShortExercise>
 
-<ShortExercise title="Oefening 3.5.5: To Return (E)" slider>
+<ShortExercise id="RqnUn4aRUjj8fO6Fdvmd" title="Oefening 3.5.5: To Return (E)" slider>
 
 ```js
 const square = x => {
@@ -547,7 +547,7 @@ square(10); //Wat is de return-waarde van dit statement?
 
 </ShortExercise>
 
-<ShortExercise title="Oefening 3.5.6: To Return (F)" slider>
+<ShortExercise id="SQrDEVZLD22pG4NuOCCR" title="Oefening 3.5.6: To Return (F)" slider>
 
 ```js
 const square = x => x * x;
@@ -557,7 +557,7 @@ square(10); //Wat is de return-waarde van dit statement?
 
 </ShortExercise>
 
-<ShortExercise title="Oefening 3.5.7: To Return (G)" slider>
+<ShortExercise id="ig6DVkspJvNxURYE2pHG" title="Oefening 3.5.7: To Return (G)" slider>
 
 ```js
 const square = x => return x * x;
@@ -567,7 +567,7 @@ square(10); //Wat is de return-waarde van dit statement?
 
 </ShortExercise>
 
-<ShortExercise title="Oefening 3.5.8: To Return (H)" slider>
+<ShortExercise id="wI0dG0X5uX7DXVT5g5yl" title="Oefening 3.5.8: To Return (H)" slider>
 
 ```js
 const square = x => console.log(x * x);
@@ -1029,7 +1029,7 @@ There’d be no way to write a pure version of `console.log`, for example, and
 efficient way when we use side effects, so computing speed can be a reason to
 avoid purity.
 
-<ShortExercise title="Oefening 3.11.1: Pure or not (A)">
+<ShortExercise id="Pt3SGGitm3ObaPbktZ08" title="Oefening 3.11.1: Pure or not (A)">
 
 Hieronder zie je steeds een andere definitie van de functie pureOrNot. Geef bij
 elke situatie hieronder aan of de functie `puur`, of `niet puur` is.
@@ -1043,7 +1043,7 @@ pureOrNot('han');
 
 </ShortExercise>
 
-<ShortExercise title="Oefening 3.11.2: Pure or not (B)">
+<ShortExercise id="YF5OgX3fWgpdMQbPXdsQ" title="Oefening 3.11.2: Pure or not (B)">
 
 ```js
 function pureOrNot() {
@@ -1054,7 +1054,7 @@ pureOrNot();
 
 </ShortExercise>
 
-<ShortExercise title="Oefening 3.11.3: Pure or not (C)">
+<ShortExercise id="ZJMLdxRyEDra4KGkG3Cg" title="Oefening 3.11.3: Pure or not (C)">
 
 ```js
 function pureOrNot(name) {
@@ -1065,7 +1065,7 @@ pureOrNot('han');
 
 </ShortExercise>
 
-<ShortExercise title="Oefening 3.11.4: Pure or not (D)">
+<ShortExercise id="UP3X9asLXnFRQoYK0jLK" title="Oefening 3.11.4: Pure or not (D)">
 
 ```js
 let name = 'han';
@@ -1077,7 +1077,7 @@ pureOrNot(name);
 
 </ShortExercise>
 
-<ShortExercise title="Oefening 3.11.5: Pure or not (E)">
+<ShortExercise id="vWANOrLqr64vLE7VjBhU" title="Oefening 3.11.5: Pure or not (E)">
 
 ```js
 let name = 'han';
@@ -1089,7 +1089,7 @@ pureOrNot();
 
 </ShortExercise>
 
-<ShortExercise title="Oefening 3.11.6: Pure or not (F)">
+<ShortExercise id="KAaOinrrhPxKRR7HMJlg" title="Oefening 3.11.6: Pure or not (F)">
 
 ```js
 function pureOrNot(name) {
@@ -1101,7 +1101,7 @@ pureOrNot('han');
 
 </ShortExercise>
 
-<ShortExercise title="Oefening 3.11.7: Pure or not (G)">
+<ShortExercise id="ogwch1rG0I20MG4oK6Pc" title="Oefening 3.11.7: Pure or not (G)">
 
 ```js
 function pureOrNot(name) {
@@ -1112,7 +1112,7 @@ pureOrNot('han');
 
 </ShortExercise>
 
-<ShortExercise title="Oefening 3.11.8: Pure or not (H)">
+<ShortExercise id="dL1FVN5nAf7fpiWwdQUm" title="Oefening 3.11.8: Pure or not (H)">
 
 ```js
 let greeting = '';
@@ -1125,7 +1125,7 @@ pureOrNot('han');
 
 </ShortExercise>
 
-<ShortExercise title="Oefening 3.11.9: Pure or not (I)">
+<ShortExercise id="3xUHYQpC8QrN8QCsFCny" title="Oefening 3.11.9: Pure or not (I)">
 
 ```js
 function getHan() {
@@ -1171,7 +1171,7 @@ Separating the tasks your program performs into different functions is helpful.
 You won’t have to repeat yourself as much, and functions can help organize a
 program by grouping code into pieces that do specific things.
 
-<CodeExercise title="Oefening 3.12.1: Execute Multiple Times" language="javascript" slider>
+<CodeExercise id="ICBNY3HsZlNaX5v5fhmO" title="Oefening 3.12.1: Execute Multiple Times" language="javascript" slider>
 
 Plak onderstaande code in het antwoordveld en implementeer de definitie van
 `executeNrOfTimes` volgens de specificatie die erboven staat.
