@@ -1,3 +1,5 @@
+# Arrow function expressions
+
 An **arrow function expression** is a syntactically compact alternative to a regular [function expression](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/function), although without its own bindings to the `[this](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)`, `[arguments](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/arguments)`, `[super](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/super)`, or `[new.target](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/new.target)` keywords. Arrow function expressions are ill suited as methods, and they cannot be used as constructors.
 
 ## Syntax
@@ -33,6 +35,15 @@ Two factors influenced the introduction of arrow functions: the need for shorter
 
 ### Shorter functions
 
+<Note>
+Dit zijn shorter functions hihi
+  
+Je kan ook nog altijd deze super informatieve video kijken 0.o
+
+<Video url="https://www.youtube.com/watch?v=mrYMzpbFz18" />
+</Note>
+
+```js
 var elements = \[
   'Hydrogen',
   'Helium',
@@ -69,6 +80,11 @@ elements.[map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
 // this example we are not assigning \`length\` value to the made up property. Instead, the literal name
 // itself of the variable \`length\` is used as the property we want to retrieve from the object.
 elements.[map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)(({ length }) => length); // \[8, 6, 7, 9\] 
+```
+
+<ShortExercise title="Hoi" silder>
+Vul hier een lieve BOODSCHAP in.
+</ShortExercise>
 
 ### No separate `this`
 
