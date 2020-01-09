@@ -42,7 +42,7 @@ Tesla's technology strategy focuses on pure-electric propulsion technology, and 
 
 Tesla [Human Resources](https://tui-elo.github.io/wiki/Human_Resources "Human Resources") VP [Arnnon Geshuri](https://tui-elo.github.io/wiki/Arnnon_Geshuri "Arnnon Geshuri") committed to bringing manufacturing jobs "back to California".[\[55\]](https://tui-elo.github.io/static-page/#cite_note-56)[\[56\]](https://tui-elo.github.io/static-page/#cite_note-Mercury-57) In 2015, Geshuri led a hiring surge about which he said: "In the last 14 months we've had 1.5 million applications from around the world. People want to work here."[\[57\]](https://tui-elo.github.io/static-page/#cite_note-58) Geshuri emphasizes hiring [veterans](https://tui-elo.github.io/wiki/Veteran "Veteran"), saying "Veterans are a great source of talent for Tesla, and we're going after it."[\[56\]](https://tui-elo.github.io/static-page/#cite_note-Mercury-57)[\[58\]](https://tui-elo.github.io/static-page/#cite_note-59)[\[59\]](https://tui-elo.github.io/static-page/#cite_note-60)
 
-<ShortExercise title="Opdracht 1">
+<ShortExercise id="KEBratxnKHkGN1QKT5Ia" title="Opdracht 1">
 # Wat is de zin van het leven?
 
 </ShortExercise>
