@@ -82,7 +82,7 @@ elements.[map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
 elements.[map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)(({ length }) => length); // \[8, 6, 7, 9\] 
 ```
 
-<ShortExercise id="0LiJkZG5wjp27Mpvpc9B" title="Hoi" silder>
+<ShortExercise id="0LiJkZG5wjp27Mpvpc9B" title="Hoi" slider>
 Vul hier een lieve BOODSCHAP in.
 </ShortExercise>
 
