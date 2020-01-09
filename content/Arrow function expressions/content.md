@@ -43,7 +43,8 @@ Je kan ook nog altijd deze super informatieve video kijken 0.o
 <Video url="https://www.youtube.com/watch?v=mrYMzpbFz18" />
 </Note>
 
-```js
+<pre>
+<code className="language-js>
 var elements = \[
   'Hydrogen',
   'Helium',
@@ -80,7 +81,8 @@ elements.[map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
 // this example we are not assigning \`length\` value to the made up property. Instead, the literal name
 // itself of the variable \`length\` is used as the property we want to retrieve from the object.
 elements.[map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)(({ length }) => length); // \[8, 6, 7, 9\] 
-```
+</code>
+</pre>
 
 <ShortExercise id="0LiJkZG5wjp27Mpvpc9B" title="Hoi" slider>
 Vul hier een lieve BOODSCHAP in.
