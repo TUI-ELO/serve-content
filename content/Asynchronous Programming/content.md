@@ -68,13 +68,13 @@ Waiting is not generally a very important type of work, but it can be useful whe
 <Note>
 De belangrijkste eigenschap van een asynchrone callback is dat deze pas kan worden gestart wanneer er op dat moment geen andere JavaScript code meer wordt uitgevoerd.
 
-<Code>
+```js
 setTimeout(() => {
     console.log("A");
 }, 500);
 
 console.log('B');
-</Code>
+```
 
 De bovenstaande code heeft daarom als uitvoer:
 
