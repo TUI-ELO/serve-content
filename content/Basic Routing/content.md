@@ -2,6 +2,12 @@
 
 _Routing_ refers to determining how an application responds to a client request to a particular endpoint, which is a URI (or path) and a specific HTTP request method (GET, POST, and so on).
 
+## Dit stuk is nieuw!
+
+*   Eerste nieuwe list item
+*   Tweede nieuwe list item
+*   Derde nieuwe list item
+
 Each route can have one or more handler functions, which are executed when the route is matched.
 
 Route definition takes the following structure:
