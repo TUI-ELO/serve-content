@@ -366,6 +366,38 @@ foutmelding geeft._
 
 </CodeExercise>
 
+<ShortExercise title="Oefening 3.3.3: Value and Type (A)">
+
+Gegeven is onderstaande functie:
+
+```js
+createGreeting = function(name) {
+    return `hello ${name}`;
+}
+```
+
+Geef bij elke onderstaande expressie de waarde en het datatype die deze expressie oplevert.
+
+**Voorbeeld: code**
+
+```js
+createGreeting(10);
+```
+
+**Voorbeeld: antwoord**
+
+```js
+waarde: hello 10,  datatype: string
+````
+
+**Opgave**
+
+```js
+createGreeting('han');
+```
+
+</ShortExercise>
+
 <ShortExercise id="cGNKxum9uz1ehH61milV" title="Oefening 3.3.4: Value and Type (B)">
 
 ```js
