@@ -366,7 +366,7 @@ foutmelding geeft._
 
 </CodeExercise>
 
-<ShortExercise title="Oefening 3.3.3: Value and Type (A)">
+<ShortExercise id="dG5Mb1WrSlmkejrSpRct" title="Oefening 3.3.3: Value and Type (A)">
 
 Gegeven is onderstaande functie:
 
