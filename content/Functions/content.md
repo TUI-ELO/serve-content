@@ -388,7 +388,7 @@ createGreeting(10);
 
 ```js
 waarde: hello 10,  datatype: string
-````
+```
 
 **Opgave**
 
