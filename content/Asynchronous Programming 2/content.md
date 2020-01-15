@@ -9,8 +9,6 @@
 
 # Notitiemodule
 
-**episch gamer moment**
-
 </Note>
 
 ![Picture of two crows on a branch](https://eloquentjavascript.net/img/chapter_picture_11.jpg)
