@@ -4,7 +4,7 @@
 > reality is the opposite, just many people doing things that build on each
 > other, like a wall of mini stones.
 >
-> Donald Knut
+> Donald Knuth
 
 ![Picture of fern leaves with a fractal shape](https://eloquentjavascript.net/img/chapter_picture_3.jpg)
 
