@@ -22,10 +22,7 @@ React components implement a `render()` method that takes input data and returns
 
 **JSX is optional and not required to use React.** Try the [Babel REPL](https://babeljs.io/repl/#?presets=react&code_lz=MYewdgzgLgBApgGzgWzmWBeGAeAFgRgD4AJRBEAGhgHcQAnBAEwEJsB6AwgbgChRJY_KAEMAlmDh0YWRiGABXVOgB0AczhQAokiVQAQgE8AkowAUAcjogQUcwEpeAJTjDgUACIB5ALLK6aRklTRBQ0KCohMQk6Bx4gA) to see the raw JavaScript code produced by the JSX compilation step.
 
-Live JSX Editor
-
-JSX?
-
+```js
 class HelloMessage extends React.Component {
   render() {
     return (
@@ -44,15 +41,13 @@ ReactDOM.render(
 Result
 
 Hello Taylor
+```
 
 ### A Stateful Component
 
 In addition to taking input data (accessed via `this.props`), a component can maintain internal state data (accessed via `this.state`). When a component’s state data changes, the rendered markup will be updated by re-invoking `render()`.
 
-Live JSX Editor
-
-JSX?
-
+```js
 class Timer extends React.Component {
   constructor(props) {
     super(props);
@@ -90,15 +85,13 @@ ReactDOM.render(
 Result
 
 Seconds: 0
+```
 
 ### An Application
 
 Using `props` and `state`, we can put together a small Todo application. This example uses `state` to track the current list of items as well as the text that the user has entered. Although event handlers appear to be rendered inline, they will be collected and implemented using event delegation.
 
-Live JSX Editor
-
-JSX?
-
+```js
 class TodoApp extends React.Component {
   constructor(props) {
     super(props);
@@ -167,3 +160,4 @@ ReactDOM.render(
 );
 
 Result
+```
