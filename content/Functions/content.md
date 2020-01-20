@@ -1314,3 +1314,9 @@ var result = b.reduce((prev, curr) => prev - curr)
 Wat staat er in `result`
   
 </ShortExercise>
+
+Werkt dit ?
+
+```js
+test
+```
