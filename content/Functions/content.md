@@ -1301,3 +1301,13 @@ console.log(countBs("BBC")); // → 2 console.log(countChar("kakkerlak", "k")); 
 → 4
 
 </Optional>
+
+### Dit is een nep stukje
+Hier gaan we een stukje toevoegen
+<ShortExercise title="Oefenen oefenen oefenen" slider>
+  ```js
+  var b = [1, 2, 5]
+  var result = b.reduce((prev, curr) => prev - curr)
+  ```
+  Wat staat er in `result`
+</ShortExercise>
