@@ -1302,17 +1302,18 @@ console.log(countBs("BBC")); // → 2 console.log(countChar("kakkerlak", "k")); 
 
 </Optional>
 
-### Dit is een nep stukje 2
+### Dit is een nep stukje 3
 Hier gaan we een stukje toevoegen
+
 <ShortExercise id="GRAivHMPO2JHJ7gxmMes" title="Oefenen oefenen oefenen" slider>
-  
+
 ```js
 var b = [1, 2, 5]
 var result = b.reduce((prev, curr) => prev - curr)
 ```
   
 Wat staat er in `result`
-  
+
 </ShortExercise>
 
 Werkt dit ?
