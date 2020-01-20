@@ -6,6 +6,12 @@ On 15 January 2020, he was nominated for [Prime Minister of the Russian Federati
 
 ## Early life and career
 
+<Note>
+# test
+  
+asdfasdf
+</Note>
+
 Mikhail Mishustin was born on 3 March 1966 in [Moscow](https://en.wikipedia.org/wiki/Moscow "Moscow") to the Mishustin family, Vladimir Moiseevich and Luiza Mikhailovna.[\[3\]](https://en.wikipedia.org/wiki/Mikhail_Mishustin#cite_note-DW.COM-3) In 1989, he graduated from the [STANKIN](https://en.wikipedia.org/wiki/STANKIN "STANKIN"), majoring in system engineering, and then in 1992, he completed postgraduate studies at the same Institute.[\[4\]](https://en.wikipedia.org/wiki/Mikhail_Mishustin#cite_note-4)
 
 After finishing graduate school, he began working as a director of a test laboratory.[\[5\]](https://en.wikipedia.org/wiki/Mikhail_Mishustin#cite_note-mkf1-5) In 1992, Mishustin began working at the International Computer Club (ICC),[\[6\]](https://en.wikipedia.org/wiki/Mikhail_Mishustin#cite_note-Anadolu-6) a public non-profit organization,[\[5\]](https://en.wikipedia.org/wiki/Mikhail_Mishustin#cite_note-mkf1-5) where he worked on facilitating the integration of Russian and Western advanced information technologies.[\[6\]](https://en.wikipedia.org/wiki/Mikhail_Mishustin#cite_note-Anadolu-6) He ultimately headed the board of the International Computer Club.[\[5\]](https://en.wikipedia.org/wiki/Mikhail_Mishustin#cite_note-mkf1-5)
