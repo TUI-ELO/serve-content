@@ -161,9 +161,9 @@ console.log(n);
 // → 10
 ```
 
-<ShortExercise id="mHEXt79WUX2aE2r2SY1W" title="Oefening 3.2.1: Scoping rules let and var (A)">
+<ShortExercise id="mHEXt79WUX2aE2r2SY1W" title="Oefening 3.2.1: jhg Scoping rules let and var (A)">
 
-Schrijf voor elk van de onderstaande stukken code de output op van
+Schrijf hoi voor elk van de onderstaande stukken code de output op van
 `console.log`. Kies daarbij uit `42`, `undefined`, of `ReferenceError`
 
 **Voorbeeld: code**
