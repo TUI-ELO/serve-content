@@ -1,4 +1,4 @@
-**Buzz Aldrin** ([/ˈɔːldrɪn/](https://en.wikipedia.org/wiki/Help:IPA/English "Help:IPA/English"); born **Edwin Eugene Aldrin Jr.**; January 20, 1930) is an American former [astronaut](https://en.wikipedia.org/wiki/Astronaut "Astronaut") and fighter pilot. Aldrin made three spacewalks as pilot of the 1966 [Gemini 12](https://en.wikipedia.org/wiki/Gemini_12 "Gemini 12") mission, and as the [Apollo Lunar Module](https://en.wikipedia.org/wiki/Apollo_Lunar_Module "Apollo Lunar Module") pilot on the 1969 [Apollo 11](https://en.wikipedia.org/wiki/Apollo_11 "Apollo 11") mission, he and mission commander [Neil Armstrong](https://en.wikipedia.org/wiki/Neil_Armstrong "Neil Armstrong") were the first two humans to land on the [Moon](https://en.wikipedia.org/wiki/Moon "Moon").
+**Buzz Aldrin** ([/ˈɔːldrɪn/](https://en.wikipedia.org/wiki/Help:IPA/English "Help:IPA/English"); born **Edwin Eugene Aldrin Jr.**; January 20, 1930) is an American [engineer](https://en.wikipedia.org/wiki/Engineer "Engineer") and a former [astronaut](https://en.wikipedia.org/wiki/Astronaut "Astronaut") and fighter pilot. Aldrin made three spacewalks as pilot of the 1966 [Gemini 12](https://en.wikipedia.org/wiki/Gemini_12 "Gemini 12") mission, and as the [Apollo Lunar Module](https://en.wikipedia.org/wiki/Apollo_Lunar_Module "Apollo Lunar Module") pilot on the 1969 [Apollo 11](https://en.wikipedia.org/wiki/Apollo_11 "Apollo 11") mission, he and mission commander [Neil Armstrong](https://en.wikipedia.org/wiki/Neil_Armstrong "Neil Armstrong") were the first two humans to land on the [Moon](https://en.wikipedia.org/wiki/Moon "Moon").
 
 <Note>
   # test
@@ -119,6 +119,12 @@ On the morning of July 16, 1969, an estimated one million spectators watched the
 ![Aldrin stands on the Moon. Armstrong and the lunar module are reflected in his visor.](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Aldrin_Apollo_11_original.jpg/220px-Aldrin_Apollo_11_original.jpg)
 
 Aldrin walks on the surface of the Moon during Apollo 11.
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkqAcAAIUAgUW0RjgAAAAASUVORK5CYII=)
+
+Menu
+
+0:00
 
 Aldrin's first words after he set foot on the Moon
 
@@ -280,16 +286,6 @@ In 2007, he confirmed to _[Time](https://en.wikipedia.org/wiki/Time_(magazine) "
 *   Aldrin, Buzz and John Barnes. 1996. _[Encounter with Tiber](https://en.wikipedia.org/wiki/Encounter_with_Tiber "Encounter with Tiber")_. London: Hodder & Stoughton. [ISBN](https://en.wikipedia.org/wiki/International_Standard_Book_Number "International Standard Book Number") [9780340624500](https://en.wikipedia.org/wiki/Special:BookSources/9780340624500 "Special:BookSources/9780340624500").
 *   Aldrin, Buzz and John Barnes. 2000. _[The Return](https://en.wikipedia.org/wiki/The_Return_(Aldrin_and_Barnes_novel) "The Return (Aldrin and Barnes novel)")_. New York: Forge. [ISBN](https://en.wikipedia.org/wiki/International_Standard_Book_Number "International Standard Book Number") [9780312874247](https://en.wikipedia.org/wiki/Special:BookSources/9780312874247 "Special:BookSources/9780312874247").
 *   Aldrin, Buzz and Wendell Minor. 2005. _Reaching for the Moon_. New York: Harper Collins Publishers. [ISBN](https://en.wikipedia.org/wiki/International_Standard_Book_Number "International Standard Book Number") [9780060554453](https://en.wikipedia.org/wiki/Special:BookSources/9780060554453 "Special:BookSources/9780060554453").
-*   Aldrin, Buzz and Wendell Minor. 2009. _Look to the Stars_. Camberwell, Vic.: Puffin Books. [ISBN](https://en.wikipedia.org/wiki/International_Standard_Book_Number "International Standard Book Number") [9780143503804](https://en.wikipedia.org/wiki/Special:BookSources/9780143503804 "Special:BookSources/9780143503804").
-*   Aldrin, Buzz and Leonard David. 2013. _[Mission to Mars: My Vision for Space Exploration](https://en.wikipedia.org/wiki/Mission_to_Mars:_My_Vision_for_Space_Exploration "Mission to Mars: My Vision for Space Exploration")_. Washington, D.C.: National Geographic Books. [ISBN](https://en.wikipedia.org/wiki/International_Standard_Book_Number "International Standard Book Number") [9781426210174](https://en.wikipedia.org/wiki/Special:BookSources/9781426210174 "Special:BookSources/9781426210174").
-*   Aldrin, Buzz and Marianne Dyson. 2015. _Welcome to Mars: Making a Home on the Red Planet_. Washington, D.C.: National Geographic Children's Books. [ISBN](https://en.wikipedia.org/wiki/International_Standard_Book_Number "International Standard Book Number") [9781426322068](https://en.wikipedia.org/wiki/Special:BookSources/9781426322068 "Special:BookSources/9781426322068").
-*   Aldrin, Buzz and Ken Abraham. 2016. _No Dream Is Too High: Life Lessons From a Man Who Walked on the Moon_. Washington, D.C.: National Geographic Books. [ISBN](https://en.wikipedia.org/wiki/International_Standard_Book_Number "International Standard Book Number") [9781426216503](https://en.wikipedia.org/wiki/Special:BookSources/9781426216503 "Special:BookSources/9781426216503").
-
-## Notes
-
-1.  **[^](https://en.wikipedia.org/wiki/Buzz_Aldrin#cite_ref-Record20090721_1-0 "Jump up")** Kaulessar, Ricardo (September 22, 2016). ["The Place Where There's Buzz"](https://www.newspapers.com/clip/29575752/the_montclair_times/). _The Montclair Times_. Montclair, New Jersey. p. A5 – via Newspapers.com.
-2.  **[^](https://en.wikipedia.org/wiki/Buzz_Aldrin#cite_ref-FOOTNOTEHansen2005348%E2%80%93349_2-0 "Jump up")** [Hansen 2005](https://en.wikipedia.org/wiki/Buzz_Aldrin#CITEREFHansen2005), pp. 348–349.
-3.  **[^](https://en.wikipedia.org/wiki/Buzz_Aldrin#cite_ref-FOOTNOTEGrier201687%E2%80%9388_3-0 "Jump up")** [Grier 2016](https://en.wikipedia.org/wiki/Buzz_Aldrin#CITEREFGrier2016), pp. 87–88.
 
 ## References
 
