@@ -161,9 +161,9 @@ console.log(n);
 // → 10
 ```
 
-<ShortExercise id="mHEXt79WUX2aE2r2SY1W" title="Oefening 3.2.1: Scoping rules let and var (A)">
+<ShortExercise id="mHEXt79WUX2aE2r2SY1W" title="Oefening 3.2.1: jhg Scoping rules let and var (A)">
 
-Schrijf voor elk van de onderstaande stukken code de output op van
+Schrijf hoi voor elk van de onderstaande stukken code de output op van
 `console.log`. Kies daarbij uit `42`, `undefined`, of `ReferenceError`
 
 **Voorbeeld: code**
@@ -1302,17 +1302,18 @@ console.log(countBs("BBC")); // → 2 console.log(countChar("kakkerlak", "k")); 
 
 </Optional>
 
-### Dit is een nep stukje 2
+### Dit is een nep stukje 3
 Hier gaan we een stukje toevoegen
+
 <ShortExercise id="GRAivHMPO2JHJ7gxmMes" title="Oefenen oefenen oefenen" slider>
-  
+
 ```js
 var b = [1, 2, 5]
 var result = b.reduce((prev, curr) => prev - curr)
 ```
   
 Wat staat er in `result`
-  
+
 </ShortExercise>
 
 Werkt dit ?
