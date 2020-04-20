@@ -14,7 +14,7 @@ Since component logic is written in JavaScript instead of templates, you can eas
 
 We don’t make assumptions about the rest of your technology stack, so you can develop new features in React without rewriting existing code.
 
-React can also render on the server using Node and power mobile apps using [React Native](https://reactnative.dev/).
+React can also render on the server using Node and power mobile apps using [React Native](https://facebook.github.io/react-native/).
 
 ### A Simple Component
 
@@ -84,10 +84,18 @@ ReactDOM.render(
 
 Result
 
-Seconds: 0
+Seconds: 
+<<<<<<<<<
+ 0
 ```
 
-### An Application
+### 
+=========
+ 12
+
+### 
+>>>>>>>>>
+ An Application
 
 Using `props` and `state`, we can put together a small Todo application. This example uses `state` to track the current list of items as well as the text that the user has entered. Although event handlers appear to be rendered inline, they will be collected and implemented using event delegation.
 
@@ -128,7 +136,7 @@ class TodoApp extends React.Component {
 
   handleSubmit(e) {
     e.preventDefault();
-    if (this.state.text.length \=== 0) {
+    if (!this.state.text.length) {
       return;
     }
     const newItem \= {
