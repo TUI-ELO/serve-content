@@ -1,53 +1,13 @@
 Virologie Een onbekend coronavirus maakte tientallen mensen ziek in de Chinese miljoenenstad Wuhan. Er lijkt geen reden voor paniek, maar het is nog niet duidelijk of de situatie nu onder controle is.
 
-Leestijd 5 minuten
+Leestijd 6 minuten
 
-![Medewerkers van de hygiënische nooddienst verlaten op 11 januari de Huanan Sea Food Market. Op 1 januari werd de vismarkt in Wuhan afgesloten na meldingen van ernstige longontstekingen.](https://images.nrc.nl/SE3Qb9e-wf1WQ9r3ZlnGy59Mzig=/1280x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data53999769-6cdebf.jpg)
+![Medewerkers van de hygiënische nooddienst verlaten op 11 januari de Huanan Sea Food Market. Op 1 januari werd de vismarkt in Wuhan afgesloten na meldingen van ernstige longontstekingen.](https://images.nrc.nl/O6kfNe7CrkP4dWLSNHMlUwxNKbk=/1280x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2020/01/data53999769-6cdebf.jpg)
 
 Medewerkers van de hygiënische nooddienst verlaten op 11 januari de Huanan Sea Food Market. Op 1 januari werd de vismarkt in Wuhan afgesloten na meldingen van ernstige longontstekingen. NOEL CELIS / AFP)
 
 Twee doden, en ten minste 41 mensen met verdachte ziekteverschijnselen. Zeven van hen liggen nog in kritieke toestand in het ziekenhuis. Dat is het gevolg van een uitbraak van een nieuw coronavirus op een overdekte vismarkt in de Chinese stad Wuhan.
 
-Nadat in december duidelijk werd dat verkopers en bezoekers van de Huanan Sea Food Market ernstige longontstekingen hadden opgelopen is de markt per 1 januari gesloten en ontsmet. Volgens de Chinese gezondheidsautoriteiten zijn er sinds 3 januari geen nieuwe ziektegevallen meer gemeld. De uitbraak lijkt daarmee in de kiem gesmoord.
+Leeslijst
 
-Maar internationaal zijn virologen niet gerustgesteld. De vrees is dat het Wuhan-virus even gevaarlijk zal blijken als SARS (Severe Acute Respiratory Syndrome). Dat was eveneens een nieuw coronavirus dat uitbrak op een markt in China, eind 2002. Via reizigers verspreidde het virus zich vervolgens over de wereld en [besmette meer dan 8.000 mensen](https://www.who.int/csr/sars/country/2003_07_11/en/). SARS eiste uiteindelijk 813 levens voordat de epidemie ten einde kwam. Destijds probeerden de Chinese autoriteiten de uitbraak de eerste maanden nog stil te houden, waardoor er pas heel laat maatregelen getroffen konden worden om verdere verspreiding te voorkomen. Er kwam daarop zware kritiek van de Wereldgezondheidsorganisatie.
-
-De Chinese respons is dit keer opener. De gezondheidsdienst in Wuhan geeft nu regelmatig [een update](http://wjw.wuhan.gov.cn/front/web/list2nd/no/710) van de vorderingen in het onderzoek naar de uitbraak, weliswaar in het Chinees, maar met vertaalsites vormt dat geen belemmering. In totaal zijn in Wuhan 763 nauwe contacten opgespoord van de 41 mensen die besmet zijn geraakt. De medische observatie van ruim de helft van hen is inmiddels opgeheven omdat er niets aan de hand leek; 313 contacten worden nog in de gaten gehouden. Het onderzoek heeft tot nu toe geen gerelateerde gevallen gevonden, meldt de gezondheidsdienst.
-
-## Genetische sequenties
-
-Belangrijker dan die openbare tussenrapportages, is dat de Chinezen nu ook de volledige genetische sequentie van het nieuwe virus hebben gedeeld. Dat is essentieel om snelle tests te kunnen ontwikkelen waarmee het virus bij mensen met verdachte ziekteverschijnselen is op te sporen en bevestiging te krijgen dat het inderdaad om het Wuhan-virus gaat. Namens een Chinees onderzoeksteam onder leiding van viroloog Yong-Zhen Zhang uit Shanghai postte de Australische viroloog Edward Holmes van de University of Sydney op 10 januari [de eerste sequentie](http://virological.org/t/initial-genome-release-of-novel-coronavirus/319).
-
-Dat de hazen nu anders lopen dan in 2002 blijkt ook uit de snelle identificatie van een 61-jarige toeriste uit Wuhan die het virus in haar thuisstad had opgelopen en ondanks haar beginnende klachten op vakantie naar Thailand was gegaan. Bij aankomst op 8 januari op de luchthaven van Bangkok werd met een thermische camera opgemerkt dat zij koorts had. De Thaise autoriteiten hadden die extra controle nog maar net ingevoerd op vluchten uit Wuhan. Samen met enkele andere reizigers uit Wuhan die ook verhoging hadden, werd zij in quarantaine geplaatst. Omdat Chinese virologen de genetische sequentie van het nieuwe virus in een internationale databank hadden gepost konden de Thai bevestigen dat de vrouw inderdaad besmet was met het Wuhan-coronavirus. De vrouw is inmiddels herstellende en keert terug naar China. Op 17 januari werd in Thailand een tweede diagnose van het virus gemeld, bij een 74-jarige Chinese vrouw uit Wuhan. En eerder deze week werd ook een Japanner gediagnosticeerd met het virus. Hij was begin januari in Wuhan. Ook hij is hersteld van zijn longontsteking.
-
-Uit Hongkong komen ondertussen ook tientallen meldingen van mensen die in Wuhan zijn geweest en die ziekteverschijnselen vertonen. Voor alle zekerheid worden ze in quarantaine gehouden. Opvallend is wel dat een diagnose hier zo lang op zich laat wachten, terwijl de diagnose van de Chinese toeriste in Thailand binnen enkele dagen plaatsvond. Mogelijk heeft dat ook te maken met het politieke klimaat, waarin de Hongkongers zich afzetten tegen de centrale overheid van China. Actievoerders proberen ook garen te spinnen bij de viruspaniek door te zeggen dat de situatie zo gevaarlijk is dat het verbod op maskers (dat sinds het uitbreken van de rellen in de stad is ingevoerd) opgeheven moet worden.
-
-Of de uitbraak van het nieuwe coronavirus beperkt blijft tot een lokale opvlamming van infecties op de vismarkt in Wuhan of dat deze nog kan uitgroeien tot SARS-achtige proporties is onzeker. „We hebben hier beperkt zicht op wat er in China precies gebeurt”, zegt viroloog Marion Koopmans van de afdeling Viroscience van de Erasmus MC in Rotterdam, „De schaarse epidemiologische gegevens die we uit China krijgen zijn wel zodanig dat je niet mag aannemen dat dit virus zich hetzelfde gaat gedragen als SARS. We moeten nog een slag om de arm houden.”
-
-![](https://images.nrc.nl/ofzDCoASKVWf8FdqRqd2nFPOgD8=/1280x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data54048201-fbc715.jpg%7Chttps://images.nrc.nl/kEYzjKrYLAx6Kl2xB5um-QmO2j8=/1920x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data54048201-fbc715.jpg)
-
-Toch blijkt uit de genetische informatie dat het Wuhan-virus van alle bekende coronavirussen het nauwst verwant is aan SARS. „Dat is waar”, beaamt Koopmans, „maar tegelijk zijn er nog behoorlijk wat verschillen.” In ieder geval heeft de Wereldgezondheidsorganisatie opgeroepen alert te zijn op virusbesmettingen. De komende weken wordt het spannend, als in verband met het begin van het Chinese nieuwjaar miljoenen Chinezen gaan reizen. Dat zou een snelle verspreiding van een lokaal sluimerend virus in de kaart kunnen spelen.
-
-## Mens op mens
-
-Een tikje onrustbarend is dat er zwakke aanwijzingen zijn dat het nieuwe virus van mens op mens kan overspringen. De vrouw van een man die op de vismarkt werkte en ziek is geworden, kreeg ook longontsteking. Volgens de Chinese berichten ‘ontkent’ de vrouw dat zij zelf op de markt is geweest. Ook de Japanse man die ziek werd, is volgens de Japanse gezondheidsautoriteiten tijdens zijn bezoek aan Wuhan niet op een markt met levende dieren geweest. Dat impliceert dat hij via menselijke contacten besmet is geraakt.
-
-Vooral een menselijke besmettingsketen kan het virus gevaarlijker maken, zegt Koopmans. „Dan krijgt het de kans zich aan te passen aan deze nieuwe gastheer en kan het plotseling veel besmettelijker worden.”
-
-Dat is ook precies wat er met de andere gevaarlijke coronavirussen SARS en MERS (Middle East Respiratory Syndrome) is gebeurd. Beide virussen hebben een eigen manier ontwikkeld om efficiënt menselijke longcellen binnen te dringen. Zo kunnen ze binden aan receptoren aan het oppervlak van menselijke longcellen, waarna zij makkelijk kunnen binnendringen.
-
-![](https://images.nrc.nl/1Mh1weIFpaj1t3ktfhr_e2ufLqw=/1280x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data53999763-b17a57.jpg%7Chttps://images.nrc.nl/w8JF6W3UyGTi0t9LAdlVly06Usg=/1920x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data53999763-b17a57.jpg)
-
-Op 1 januari werd de Huanan Sea Food Market in Wuhan afgesloten na meerdere meldingen van ernstige longontstekingen. Een winkeleigenaar discussieert hier met beveiligers. Noel Celis / AFP
-
-Maar vooralsnog lijkt de situatie in Wuhan het meest op een spill-over vanuit dieren, zegt Koopmans. Behalve vis en schaaldieren werden er ook andere dierlijke producten verhandeld op de markt, onder meer levende slangen, fazanten en orgaanvlees van konijnen. De bron van SARS is destijds herleid tot levende civetkatten die op de markt verhandeld werden. MERS komt uit dromedarissen. Waarschijnlijk hebben die dieren het virus op hun beurt opgepikt van vleermuizen, die de natuurlijke gastheer van veel coronavirussen zijn.
-
-## Reservoir
-
-Koopmans vermoedt dat zich in Wuhan eenzelfde scenario heeft afgespeeld. Niet vis of schaaldieren waren dan de bron, maar een wilde vogel of een zoogdier dat naar de markt werd gebracht. „Waarschijnlijk heeft het virus zich eerst kunnen vermeerderen via de verschillende levende dieren op de markt”, zegt Koopmans „Vanuit dat reservoir heeft het virus ook mensen op de markt besmet.”
-
-In monsters die op het terrein van de markt zijn genomen, is het virus wel aangetroffen, maar het dier of de dieren die het bij zich hebben gedragen zijn niet geïdentificeerd. Dat is frustrerend, want dat betekent dat er mogelijk nog steeds besmettelijke dieren rondlopen op andere markten. De 61-jarige toeriste in Thailand zou weliswaar niet op de Huanan Sea Food Market zijn geweest, maar wel andere markten met levende dieren hebben bezocht in Wuhan. Mogelijk is zij daar besmet. Als dat zo is, kan de besmetting zich vanuit nieuwe virushaarden opnieuw verspreiden.
-
-Het is goed denkbaar dat er rond markten met levende wilde dieren altijd al af en toe kleine uitbraken zijn geweest van overspringende virussen. Maar zolang die infecties zich niet verder verspreidden en het aantal slachtoffers beperkt bleef, ging dat onopgemerkt voorbij. Met de moderne genetische technieken is ook de oorzaak van kleine uitbraken snel te achterhalen, waardoor die toch aan het licht komen. „Dat kan in Wuhan ook het geval zijn”, zegt Koopmans, „Maar daarnaast is het risico op dit soort uitbraken wel toegenomen doordat mensen meer dan voorheen in contact komen met wilde dieren en er steeds meer mensen dicht op elkaar leven.
-
-De vraag is of er iets aan gedaan kan worden om dit soort potentieel gevaarlijke virusuitbraken in de toekomst te voorkomen. „Dat is denk ik heel lastig”, zegt Koopmans, „De uitbraken hangen vrijwel altijd samen met markten waarop levende dieren verhandeld worden. Na de SARS-epidemie in 2003, en de uitbraak van de vogelgriep H1N1 onder mensen in 2009, is de discussie daarover telkens wel gevoerd. Je kunt die markten niet zo maar afschaffen, het hoort ook bij de cultuur van een land. Maar het is natuurlijk wel een risicopraktijk.”
+Artikel delen
