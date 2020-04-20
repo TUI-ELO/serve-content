@@ -99,49 +99,17 @@ On 1 April, Mishustin and the [Minister of Communications](https://en.wikipedia.
 ## Personal life
 
 Mishustin is married and has three sons.[\[20\]](https://en.wikipedia.org/wiki/Mikhail_Mishustin#cite_note-wedwiki-20) He plays [ice hockey](https://en.wikipedia.org/wiki/Ice_hockey "Ice hockey").[\[20\]](https://en.wikipedia.org/wiki/Mikhail_Mishustin#cite_note-wedwiki-20) He is also an avid spectator of the sport,[\[19\]](https://en.wikipedia.org/wiki/Mikhail_Mishustin#cite_note-ftwhois-19) and is a member of the supervisory board of [HC CSKA Moscow](https://en.wikipedia.org/wiki/HC_CSKA_Moscow "HC CSKA Moscow").[\[13\]](https://en.wikipedia.org/wiki/Mikhail_Mishustin#cite_note-RudnitskyPismennaya1-13)[\[20\]](https://en.wikipedia.org/wiki/Mikhail_Mishustin#cite_note-wedwiki-20) It has been reported that, prior to his selection as Prime Minister, he and Putin developed a rapport with each other through their shared enthusiasm for the sport.[\[13\]](https://en.wikipedia.org/wiki/Mikhail_Mishustin#cite_note-RudnitskyPismennaya1-13) Mishustin is an amateur musician,[\[13\]](https://en.wikipedia.org/wiki/Mikhail_Mishustin#cite_note-RudnitskyPismennaya1-13) and is a [pianist](https://en.wikipedia.org/wiki/Pianist "Pianist").[\[20\]](https://en.wikipedia.org/wiki/Mikhail_Mishustin#cite_note-wedwiki-20) As a hobby he has written [pop music](https://en.wikipedia.org/wiki/Pop_music "Pop music"), including for the singer [Grigory Leps](https://en.wikipedia.org/wiki/Grigory_Leps "Grigory 
-<<<<<<<<<
- Leps").[\[7\]](https://en.wikipedia.org/wiki/Mikhail_Mishustin#cite_note-RudnitskyPismennaya1-7)
-
-## References
-
-1.  ^ [_**a**_](https://en.wikipedia.org/wiki/Mikhail_Mishustin#cite_ref-NewPM_1-0) [_**b**_](https://en.wikipedia.org/wiki/Mikhail_Mishustin#cite_ref-NewPM_1-1) ["Путин предложил главе ФНС Михаилу Мишустину пост премьера"](https://ria.ru/20200115/1563466512.html). [Archived](https://web.archive.org/web/20200115175557/https://ria.ru/20200115/1563466512.html) from 
-=========
  Leps").[\[13\]](https://en.wikipedia.org/wiki/Mikhail_Mishustin#cite_note-RudnitskyPismennaya1-13)
 
-On 16 January 2020, 
->>>>>>>>>
- the 
-<<<<<<<<<
- original 
-=========
- Russia-based [Anti-Corruption Foundation](https://en.wikipedia.org/wiki/Anti-Corruption_Foundation "Anti-Corruption Foundation") called 
->>>>>>>>>
- on 
-<<<<<<<<<
- 15 January 2020. Retrieved 15 January 2020.
-2.  **[^](https://en.wikipedia.org/wiki/Mikhail_Mishustin#cite_ref-confirmation_2-0)** Litvinova, Daria (16 January 2020). ["Russia's new PM 
-=========
- Mishustin to explain how his wife earned almost 800 million rubles over 9 years.[\[64\]](https://en.wikipedia.org/wiki/Mikhail_Mishustin#cite_note-64)[\[65\]](https://en.wikipedia.org/wiki/Mikhail_Mishustin#cite_note-65) On 19 January, the _[Kommersant](https://en.wikipedia.org/wiki/Kommersant "Kommersant")_ newspaper published 
->>>>>>>>>
- a career bureaucrat with no political aims"](https://apnews.com/dac9ce99b613d792bc2556b8c69f23c2). _Associated Press_. [Archived](https://web.archive.org/web/20200116144452/https://apnews.com/dac9ce99b613d792bc2556b8c69f23c2) from the 
-<<<<<<<<<
- original on 16 
-=========
- law, transferred all his assets and investment projects to his wife.[\[66\]](https://en.wikipedia.org/wiki/Mikhail_Mishustin#cite_note-66) From that moment, Vladlena Mishustina started receiving dividends, which is confirmed by official declarations.[\[67\]](https://en.wikipedia.org/wiki/Mikhail_Mishustin#cite_note-67)[\[68\]](https://en.wikipedia.org/wiki/Mikhail_Mishustin#cite_note-68)[\[69\]](https://en.wikipedia.org/wiki/Mikhail_Mishustin#cite_note-69) According to _Kommersant_, a significant part of the assets were sold in 2013 and 2014, and the proceeds were placed in deposit accounts to receive interest.[\[70\]](https://en.wikipedia.org/wiki/Mikhail_Mishustin#cite_note-70)[\[71\]](https://en.wikipedia.org/wiki/Mikhail_Mishustin#cite_note-71)
+On 16 January 2020, the Russia-based [Anti-Corruption Foundation](https://en.wikipedia.org/wiki/Anti-Corruption_Foundation "Anti-Corruption Foundation") called Mishustin to explain how his wife earned almost 800 million rubles over 9 years.[\[64\]](https://en.wikipedia.org/wiki/Mikhail_Mishustin#cite_note-64)[\[65\]](https://en.wikipedia.org/wiki/Mikhail_Mishustin#cite_note-65) On 19 January, the _[Kommersant](https://en.wikipedia.org/wiki/Kommersant "Kommersant")_ newspaper published 
 
 ## References
 
 1.  ^ [_**a**_](https://en.wikipedia.org/wiki/Mikhail_Mishustin#cite_ref-NewPM_1-0) [_**b**_](https://en.wikipedia.org/wiki/Mikhail_Mishustin#cite_ref-NewPM_1-1) ["Путин предложил главе ФНС Михаилу Мишустину пост премьера"](https://ria.ru/20200115/1563466512.html). [Archived](https://web.archive.org/web/20200115175557/https://ria.ru/20200115/1563466512.html) from the original on 15 
->>>>>>>>>
  January 
-<<<<<<<<<
- 2020. Retrieved 16 January 2020.
- 
-=========
  2020. Retrieved 15 January 2020.
 2.  **[^](https://en.wikipedia.org/wiki/Mikhail_Mishustin#cite_ref-confirmation_2-0)** Litvinova, Daria (16 January 2020). ["Russia's new PM a career bureaucrat with no political aims"](https://apnews.com/dac9ce99b613d792bc2556b8c69f23c2). _Associated Press_. [Archived](https://web.archive.org/web/20200116144452/https://apnews.com/dac9ce99b613d792bc2556b8c69f23c2) from the original on 16 January 2020. Retrieved 16 January 2020.
 3.  **[^](https://en.wikipedia.org/wiki/Mikhail_Mishustin#cite_ref-3)** Алексей Алексеевич Мухин, Правители России: Старая площадь и Белый дом. Элита России, Алгоритм, 2005, [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier) "ISBN (identifier)") [5926501776](https://en.wikipedia.org/wiki/Special:BookSources/5926501776 "Special:BookSources/5926501776"), [стр. 275.](https://books.google.bg/books?id=S5siAQAAIAAJ&q=%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB+%D0%9C%D0%B8%D1%88%D1%83%D1%81%D1%82%D0%B8%D0%BD+%D0%BB%D0%BE%D0%B1%D0%BD%D1%8F&dq=%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB+%D0%9C%D0%B8%D1%88%D1%83%D1%81%D1%82%D0%B8%D0%BD+%D0%BB%D0%BE%D0%B1%D0%BD%D1%8F&hl=en&sa=X&ved=0ahUKEwjz1e6IuZLnAhVutIsKHSR8A4cQ6AEIJzAA)
 4.  **[^](https://en.wikipedia.org/wiki/Mikhail_Mishustin#cite_ref-4)** Алексей Мухин, Кабинет Михаила Фрадкова, 2006: неофициальный взгляд на официальных людей, Центр политической информации, 2006, стр. 116.
 5.  **[^](https://en.wikipedia.org/wiki/Mikhail_Mishustin#cite_ref-5)** Федеральная и региональная элита России 2004: кто есть кто в политике и экономике, Центр политической информаци, ГНОМ и Д, 2004, стр. 453.
 6.  **[^](https://en.wikipedia.org/wiki/Mikhail_Mishustin#cite_ref-DW.COM_6-0)** Welle, Deutsche. ["Who is Mikhail Mishustin — Russia's next prime minister? | DW | 16 January 2020"](https://www.dw.com/en/who-is-mikhail-mishustin-russias-next-prime-minister/a-52021268). _DW.COM_. [Archived](https://web.archive.org/web/20200117213541/https://www.dw.com/en/who-is-mikhail-mishustin-russias-next-prime-minister/a-52021268) from the original on 17 January 2020. Retrieved 19 January 2020. 
->>>>>>>>>
