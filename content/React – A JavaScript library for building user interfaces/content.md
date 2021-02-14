@@ -20,7 +20,9 @@ React can also render on the server using Node and power mobile apps using [Reac
 
 React components implement a `render()` method that takes input data and returns what to display. This example uses an XML-like syntax called JSX. Input data that is passed into the component can be accessed by `render()` via `this.props`.
 
-**JSX is optional and not required to use React.** Try the [Babel REPL](https://babeljs.io/repl/#?presets=react&code_lz=MYewdgzgLgBApgGzgWzmWBeGAeAFgRgD4AJRBEAGhgHcQAnBAEwEJsB6AwgbgChRJY_KAEMAlmDh0YWRiGABXVOgB0AczhQAokiVQAQgE8AkowAUAcjogQUcwEpeAJTjDgUACIB5ALLK6aRklTRBQ0KCohMQk6Bx4gA) to see the raw JavaScript code produced by the JSX compilation step.
+**JSX is optional and not required to use React.** Try the [Babel REPL](https://babeljs.io/repl/#?presets=react&code_lz=MYewdgzgLgBApgGzgWzmWBeGAeAFgRgD4AJRBEAGhgHcQAnBAEwEJsB6AwgbgChRJY_KAEMAlmDh0YWRiGABXVOgB0AczhQAokiVQAQgE8AkowAUAcjogQUcwEpeAJTjDgUACIB5ALLK6aRklTRBQ0KCohMQk6Bx4gA) to see the raw JavaScript code produced by the JSX compilation 
+<<<<<<<<<
+ step.
 
 ```js
 class HelloMessage extends React.Component {
@@ -43,9 +45,19 @@ Result
 Hello Taylor
 ```
 
-### A Stateful Component
+### 
+=========
+ step.
 
-In addition to taking input data (accessed via `this.props`), a component can maintain internal state data (accessed via `this.state`). When a component’s state data changes, the rendered markup will be updated by re-invoking `render()`.
+#### Loading code example...
+
+### 
+>>>>>>>>>
+ A Stateful Component
+
+In addition to taking input data (accessed via `this.props`), a component can maintain internal state data (accessed via `this.state`). When a component’s state data changes, the rendered markup will be updated by re-invoking 
+<<<<<<<<<
+ `render()`.
 
 ```js
 class Timer extends React.Component {
@@ -87,9 +99,19 @@ Result
 Seconds: 0
 ```
 
-### An Application
+### 
+=========
+ `render()`.
 
-Using `props` and `state`, we can put together a small Todo application. This example uses `state` to track the current list of items as well as the text that the user has entered. Although event handlers appear to be rendered inline, they will be collected and implemented using event delegation.
+#### Loading code example...
+
+### 
+>>>>>>>>>
+ An Application
+
+Using `props` and `state`, we can put together a small Todo application. This example uses `state` to track the current list of items as well as the text that the user has entered. Although event handlers appear to be rendered inline, they will be collected and implemented using event 
+<<<<<<<<<
+ delegation.
 
 ```js
 class TodoApp extends React.Component {
@@ -107,7 +129,19 @@ class TodoApp extends React.Component {
         <TodoList items\={this.state.items} />
         <form onSubmit\={this.handleSubmit}\>
           <label htmlFor\="new-todo"\>
-            What needs to be done?
+            What needs 
+=========
+ delegation.
+
+#### Loading code example...
+
+### A Component Using External Plugins
+
+React allows you 
+>>>>>>>>>
+ to 
+<<<<<<<<<
+ be done?
           </label\>
           <input
             id\="new-todo"
@@ -161,3 +195,7 @@ ReactDOM.render(
 
 Result
 ```
+ 
+=========
+ interface with other libraries and frameworks. This example uses **remarkable**, an external Markdown library, to convert the `<textarea>`’s value in real time. 
+>>>>>>>>>

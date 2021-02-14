@@ -1,3 +1,9 @@
-![](https://nos.nl/data/image/2020/04/19/644199/xxl.jpg)
+![](https://cdn.nos.nl/image/2021/02/01/711999/1008x567.jpg)
 
-### 'Op de top lagen hier in dit noodhospitaal zo'n 1500 patiënten'
+Weer naar school Met mondkapjes op gaan de kleuters in Bangkok weer naar school op de eerste schooldag na een periode van sluiting vanwege corona EPA
+
+Volg het nieuws uit jouw regio
+
+Geen regionieuws missen? Volg nieuws van jouw regionale omroep op je voorpagina. Voeg één of twee omroep(en) toe aan NOS.nl.
+
+Kies je omroep

@@ -23,7 +23,7 @@ If you have a previous version of Go installed, be sure to [remove it](https://g
     
     For example, run the following as root or through `sudo`:
     
-    tar -C /usr/local -xzf go1.15.6.linux-amd64.tar.gz
+    tar -C /usr/local -xzf go1.15.7.linux-amd64.tar.gz
     
 2.  Add /usr/local/go/bin to the `PATH` environment variable.
     
